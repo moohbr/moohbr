@@ -3,11 +3,13 @@
 
 - 🔭 I’m currently working on [Kukac](https://kukac.ai/)
 
-- 🌱 I’m currently learning **Flask**
+- 🏫 I'm student at [UNIFEI](https://unifei.edu.br/)
 
 - 👯 I’m looking to collaborate on [Krakens](https://krakens.unifei.edu.br/)
 
-- 📫 My phone number [+5531988014131](+5531988014131)
+- 🌱 I’m currently learning **Flask**
+
+- 📱 My phone number [+5531988014131](+5531988014131)
 
 - 📫 How to reach me **moohbr@gmail.com**
 
