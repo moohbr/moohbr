@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Kukac](https://kukac.ai/)
 
-- 🏫 I'm student at [UNIFEI](https://unifei.edu.br/)
+- 🏫 I'm pursuing Bachelor of Infomartion Systems in [UNIFEI](https://unifei.edu.br/)
 
 - 👯 I’m looking to collaborate on [Krakens](https://krakens.unifei.edu.br/)
 
