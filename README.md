@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matheus Araújo</h1>
-<h3 align="center">A python student and lover of learning.</h3>
+<h3 align="center">A pythonist and lover of learning.</h3>
 
 - 🔭 I’m currently working on [Kukac](https://kukac.ai/)
 
