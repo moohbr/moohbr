@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [Krakens](https://krakens.unifei.edu.br/)
 
-- 🌱 I’m currently learning **Flask**, **GoLang** and **TypeScript**
+- 🌱 I’m currently learning **Django**, **GoLang** and **TypeScript**
 
 - 📱 My phone number [+5531988014131](+5531988014131)
 
