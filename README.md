@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Matheus Araújo</h1>
 <h3 align="center">A pythonist and lover of learning.</h3>
 
-- 🔭 I’m currently working on [Kukac](https://kukac.ai/)
+- 🔭 I’m currently working on [Kukac](https://kukac.ai/) and [Senha Segura](https://senhasegura.com)
 
 - 🏫 I'm pursuing Bachelor of Infomartion Systems in [UNIFEI](https://unifei.edu.br/)
 
-- 👯 I’m looking to collaborate on [Krakens](https://krakens.unifei.edu.br/)
-
-- 🌱 I’m currently learning **Django**, **GoLang** and **TypeScript**
+- 🌱 I’m currently learning **GoLang** , **Java** and **TypeScript**
 
 - 📱 My phone number [+5531988014131](+5531988014131)
 
