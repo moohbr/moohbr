@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matheus Araújo</h1>
 <h3 align="center">A Backend Developer and lover of learning.</h3>
 
-- 🔭 I’m currently working on [Kukac](https://kukac.ai/) and [Senha Segura](https://senhasegura.com)
+- 🔭 I’m currently working
 
 - 🏫 I'm pursuing Bachelor of Infomartion Systems in [UNIFEI](https://unifei.edu.br/)
 
