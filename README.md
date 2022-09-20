@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **I'm a Valve fan**
 
+-  ʕ◔ϖ◔ʔ My Go Package [![Go Reference](https://pkg.go.dev/badge/github.com/moohbr/WebMonitor.svg)](https://pkg.go.dev/github.com/moohbr/WebMonitor)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/matheus-araujo-3b120647/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/matheus-araujo-3b120647/" height="30" width="40" /></a>
