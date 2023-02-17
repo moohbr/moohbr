@@ -7,11 +7,7 @@
 
 - 🌱 I’m currently learning **GoLang** , **Java** and **TypeScript**
 
-- 📱 My phone number [+5531988014131](+5531988014131)
-
 - 📫 How to reach me **moohbr@gmail.com**
-
-- ⚡ Fun fact **I'm a Valve fan**
 
 -  ʕ◔ϖ◔ʔ My Go Package [![Go Reference](https://pkg.go.dev/badge/github.com/moohbr/WebMonitor.svg)](https://pkg.go.dev/github.com/moohbr/WebMonitor)
 
