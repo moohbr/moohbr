@@ -5,7 +5,7 @@
 
 - 🏫 I'm pursuing Bachelor of Infomartion Systems in [UNIFEI](https://unifei.edu.br/)
 
-- 🌱 I’m currently learning **GoLang** , **Java** and **TypeScript**
+- 🌱 I’m currently learning **GoLang** , **Java** and **JavaScript**
 
 - 📫 How to reach me **moohbr@gmail.com**
 
