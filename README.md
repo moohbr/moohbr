@@ -5,11 +5,13 @@
 
 - 🏫 I'm pursuing Bachelor of Infomartion Systems in [UNIFEI](https://unifei.edu.br/)
 
-- 🌱 I’m currently learning **GoLang** , **Java** and **JavaScript**
+- 🌱 I’m currently working with **GoLang** , **Java** and **JavaScript**
 
 - 📫 How to reach me **moohbr@gmail.com**
 
 -  ʕ◔ϖ◔ʔ My Go Package [![Go Reference](https://pkg.go.dev/badge/github.com/moohbr/WebMonitor.svg)](https://pkg.go.dev/github.com/moohbr/WebMonitor)
+
+-  🐦 My [Chrome Extension](https://github.com/moohbr/discover-less)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
