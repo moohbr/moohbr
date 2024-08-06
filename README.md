@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently working with **GoLang** , **Java** and **JavaScript**
 
-- 📫 How to reach me **moohbr@gmail.com**
+- 📫 How to reach me **grinning-hut-spill@duck.com**
 
 -  ʕ◔ϖ◔ʔ My Go Package [![Go Reference](https://pkg.go.dev/badge/github.com/moohbr/WebMonitor.svg)](https://pkg.go.dev/github.com/moohbr/WebMonitor)
 
