@@ -5,7 +5,7 @@
 
 - 🏫 I'm pursuing Bachelor of Infomartion Systems in [UNIFEI](https://unifei.edu.br/)
 
-- 🌱 I’m currently working with **GoLang** , **Java** and **JavaScript**
+- 🌱 I’m currently working with **GoLang** , **Python** and **JavaScript**
 
 - 📫 How to reach me **grinning-hut-spill@duck.com**
 
